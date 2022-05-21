@@ -5,5 +5,5 @@ function donwloadCV() {
 
     document.body.appendChild(file);
     file.click;
-    document.body.removeChild(file);
+    //document.body.removeChild(file);
 }
